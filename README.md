@@ -2,9 +2,8 @@
 Very simple and amateur launcher for ffmpeg to just merge video and audio
 
 ## Install
-Download VAMerge.bat in a folder on your desktop.
-
-To run this script correctly, first you need to download ffmpeg binary file from https://ffmpeg.zeranoe.com/builds/
+* Download VAMerge.bat in a folder on your desktop.
+* To run this script correctly, first you need to download ffmpeg binary file from https://ffmpeg.zeranoe.com/builds/. Then extract ffmpeg.exe to the same location that VAMerge.bat located.
 
 ## Usage
 To combine a video file with an audio file you should use following format:
