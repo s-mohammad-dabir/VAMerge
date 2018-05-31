@@ -7,7 +7,7 @@ To run this script correctly, first you need to download ffmpeg binary file from
 
 ## Usage
 To combine a video file with an audio file you should use following format:
-VAMerge.bat <input video file address> <input audio file address> <output video file address> 
+VAMerge.bat &ltinput video file address&gt &ltinput audio file address&gt &ltoutput video file address&gt
 
 ### Example
 I want to merge "video.mp4" and "audio.mp3" files together and make "output.mp4" file. Example files are located in "C:\example\". I use following command:
